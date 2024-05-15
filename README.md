@@ -6,6 +6,11 @@ Route Server:
 <Br>
       ° https://github.com/shrnair/Azure-Route-Server-Next-Hop-IP-Feature
 <!--
+
+## AVS
+<Br>
+      ° https://github.com/shrnair/Azure-Route-Server-Next-Hop-IP-Feature](https://github.com/shrnair/AS-path-Prepends-with-Azure-VMware-Solution
+<!--
 **shrnair/shrnair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
